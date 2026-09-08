@@ -30,8 +30,6 @@ A collection of my CSS learning exercises and practice projects.
 
 ---
 
----
-
 ## Branch Structure
 
 Each project is maintained in its own branch to make individual projects easier to manage and deploy.
