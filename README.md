@@ -24,9 +24,11 @@ A collection of my CSS learning exercises and practice projects.
 
 ### Practices
 
-| Date | Practice | What I Learned | What I Used in the Practice |
-|---|---|---|---|
-| 08/09/2026 | Profile Card | CSS selectors, Google Fonts, Flexbox, `width`, `height`, `max-width`, `padding`, `margin`, `border`, `border-radius`, `box-shadow`, `background-color`, `color`, `font-size`, `font-weight`, `position`, `object-fit`, `display`, `align-items`, `justify-content`, `gap`, `:hover`, `:active`, `transition`, `transform` | Created a profile card with a cover image, profile image, profile information, a Follow button with hover and click effects, and follower statistics while practicing Flexbox and basic CSS styling. |
+| Date | Practice | What I Learned | What I Used in the Practice | Live Demo |
+|---|---|---|---|---|
+| 08/09/2026 | Profile Card | CSS selectors, Google Fonts, Flexbox, `width`, `height`, `max-width`, `padding`, `margin`, `border`, `border-radius`, `box-shadow`, `background-color`, `color`, `font-size`, `font-weight`, `position`, `object-fit`, `display`, `align-items`, `justify-content`, `gap`, `:hover`, `:active`, `transition`, `transform` | Created a profile card with a cover image, profile image, profile information, a Follow button with hover and click effects, and follower statistics while practicing Flexbox and basic CSS styling. | [View Project](https://ishfaqbuilds-profilecard.netlify.app) |
+
+---
 
 ---
 
