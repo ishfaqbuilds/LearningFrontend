@@ -13,8 +13,9 @@ A collection of my HTML learning exercises and practice projects.
 | Date | Practice | What I Learned | What I Used in the Practice |
 |---|---|---|---|
 | 30/08/2026 | Routine | `<table>`, `<tr>`, `<th>`, `<td>`, `border`, `padding`, `text-align`, `background-color`, `rowspan`, `colspan` | Created a class routine using tables, merged rows and columns, and applied basic inline CSS styling. |
-| 31/08/2026 | Curriculum Vitae | Semantic HTML, SEO meta tags, Open Graph tags, favicon, headings, paragraphs, lists, links, `<address>`, basic inline CSS | Created a single-page CV using semantic HTML and applied basic inline CSS for styling. |
-| 04/09/2026 | DF YouTube | Semantic HTML, `<iframe>`, `<div>`, `<form>`, `<label>`, `<input>`, `<button>`, links, `display`, `margin`, `padding`, `border-radius`, `width`, `height`, `background-color`, `text-align` | Created a YouTube-based website with coding and gaming video pages, a sign-in page, embedded videos, forms, navigation links, and basic inline CSS styling. |
+| 31/08/2026 | Curriculum Vitae | Semantic HTML, SEO meta tags, Open Graph tags, favicon, headings, paragraphs, lists, links, `<address>`, basic inline CSS | Created a single page CV using semantic HTML and applied basic inline CSS for styling. |
+| 04/09/2026 | DF YouTube | Semantic HTML, `<iframe>`, `<div>`, `<form>`, `<label>`, `<input>`, `<button>`, links, `display`, `margin`, `padding`, `border-radius`, `width`, `height`, `background-color`, `text-align` | Created a YouTube based website with coding and gaming video pages, a sign-in page, embedded videos, forms, navigation links, and basic inline CSS styling. |
+| 13/09/2026 | Portfolio | Semantic HTML, `<header>`, `<main>`, `<section>`, headings, paragraphs, lists, tables, links, `<hr>`, `<strong>`, inline CSS, `margin`, `padding`, `background-color`, `border`, `text-align` | Created a single page portfolio with personal information, education, skills, hobbies, projects, and contact information while practicing semantic HTML and inline CSS styling. |
 
 ---
 
@@ -37,12 +38,3 @@ Each project is maintained in its own branch to make individual projects easier 
 ```text
 LearningHTML/ProjectName
 LearningCSS/ProjectName
-```
-
-Example:
-```text
-LearningHTML/CurriculumVitae
-LearningHTML/DFYoutube
-LearningHTML/Routine
-LearningCSS/ProfileCard
-```
